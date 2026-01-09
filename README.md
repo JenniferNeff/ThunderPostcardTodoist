@@ -1,10 +1,12 @@
-# ThunderbirdTodoist
-Thunderbird Add-On for [Todoist](https://todoist.com).
+# ThunderPostcardTodoist
+Thunderbird Add-On for [Todoist](https://todoist.com), specifically for emails sent by [Postcards To Voters](https://postcardstovoters.org). These emails conform to a set pattern that lends themselves to one-click conversion into a task.
 
-Not created by, affiliated with, or supported by Doist.
+Not created by, affiliated with, or supported by Doist, or Postcards To Voters.
 
 ## Overview
-This plugin adds a button to Thunderbird to add a new task for the selected email. Project and due date can be set directly when adding a task. It is also possible to add a link to the task which opens the email in Thunderbird.
+This plugin adds a button to Thunderbird to turn a "Here are your addresses from Abby for..." email into a task with one click. The task has a due date of Today and a deadline of the postcards' mailing date.
+
+_The below pertains to the project this was forked from._
 
 ## Installation
 To install the add-on, visit the [add-on page](https://addons.thunderbird.net/de/thunderbird/addon/thunderbird-todoist/).
